@@ -1,0 +1,5 @@
+{
+  "name": "Symmetric & Asymmetric Encryption Suite",
+  "description": "A professional cryptographic toolset featuring AES, 3DES, One-Time Pad, and RSA encryption with secure federated authentication.",
+  "requestFramePermissions": []
+}
