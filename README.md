@@ -35,3 +35,5 @@ To get this project running locally, you will need a modern Node.js environment.
 ## Project Security
 
 The database is protected by specific Firestore rules that enforce identity-based access control. No user can read or modify data belonging to another user, maintaining strict isolation of cryptographic assets.
+
+Try it live for the better experience.  https://cns-amb2.onrender.com/
